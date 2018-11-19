@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF=8">
+    <meta name="viewport"
+            content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body, html
+        {   height: 100%
+        }
+    </style>
+</head>
+
+<body onload="viewport()">
+    THIS
+    <br>
+    <br>
+    This page is <span id="wide"></span> pixels wide
+    <br>
+    <br>
+    This page is <span id="high"></span> pixels high
+    <br>
+</body>
+
+<!-- link to jQuery-->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+<script language="JavaScript">
+function viewport()
+{
+    document.getElementById("wide").innerHTML = document.body.offsetWidth;
+    document.getElementById("high").innerHTML = document.body.offsetHeight;
+
+}
+</script>
+</html>
