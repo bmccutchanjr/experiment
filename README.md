@@ -1,6 +1,6 @@
 # Experiment
 
-These are simple pages that I use as a test bed.  They generally don't do very much, but help me to understand what some code is supposed to be do.  I need to access some of these pages them from various devices for one reason or another, so putting them on the web is kinda necessary (and GitHub seemed like a good place to do it).
+These are simple pages that I use as a test bed.  They generally don't do very much, but help me to understand what some code is supposed to be do.  I need to access some of these pages from various devices for one reason or another, so putting them on the web is kinda necessary (and GitHub seemed like a good place to do it).
 
 There are also some pages here that work just fine from the local file system, but after a recent scare I decided I need/want to back them up.  Again, GitHub seems like a good place to do it.
 
